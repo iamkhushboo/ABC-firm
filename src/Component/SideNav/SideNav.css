@@ -1,0 +1,23 @@
+/* .SideNav-Main{
+    background-color: aquamarine;
+} */
+
+.files li{
+    list-style: none;
+    padding: 10px 10px 10px 19px;
+    font-size: 18px;
+}
+
+.files li i{
+    margin-right: 5px;
+}
+
+.files :hover{
+    background-color: #c3d7f9;
+}
+
+.sideNav-heading{
+    color: #3065ea;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,93 @@
+.main-contant {
+    background-color: rgb(235 235 235);
+    height: 90.3vh;
+}
+
+.dashboard-cards {
+    padding: 0 10px 0 10px;
+}
+
+.card-text {
+    margin-bottom: 0.5rem !important;
+}
+
+.card-title {
+    font-size: 20px;
+    border: 1px solid rgb(191, 191, 191);
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.content button {
+    background-color: rgb(13, 13, 182);
+    border-radius: 8px;
+}
+
+.p-datatable-wrapper{
+    border-radius: 8px !important;
+}
+
+.searchbar input{
+    border-radius: 5px;
+    width: 100%;
+    height: 35px;
+    border-color: gray;
+}
+
+.searchbar{
+    width: 45%;
+}
+
+.searchbar input:focus-visible{
+    border: none !important;
+}
+
+.profile{
+    width: 6%;
+}
+.profile i {
+    font-size: 23px;
+}
+
+.dialog-dropdown,
+.importLink{
+    width: 100%;
+}
+
+.importLink{
+    height: 40px;
+}
+
+.p-fileupload-choose{
+    height: 100px;
+    width: 100%;
+    border: dotted #ced4da;
+    background-color: transparent;
+    color: rgb(13, 13, 182);
+}
+
+.p-fileupload-choose{
+    box-shadow: none !important;
+}
+
+.p-dropdown:not(.p-disabled):hover {
+    border-color: #ced4da !important;
+}
+
+.p-button-icon-left{
+    display: none;
+}
+
+.importLink{
+    border-color: #ced4da !important;
+    border-radius: 5px;
+}
+
+.footer-btn{
+    width: 100%;
+    border-radius: 8px;
+}
